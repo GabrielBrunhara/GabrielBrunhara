@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Gabriel Brunhara!
 
-<!--
-**7Araby7/7Araby7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student at UTFPR**  
+💡 Passionate about software development, I’m always seeking new ways to apply and expand my technical skills.
 
-Here are some ideas to get you started:
+### 🌟 My Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:**  
+  HTML, CSS, PHP, JavaScript, React, Laravel
+
+- **Mobile Development:**  
+  Dart/Flutter
+
+- **Programming Languages:**  
+  C/C++, Java
+
+- **Database Management:**  
+  MySQL, PostgreSQL
+
+- **Operating Systems:**  
+  Windows, Linux
+
+- **Tools and Technologies:**  
+  Xampp, Git, Office Suite
+
+### 🚀 Projects and Interests
+
+I’m currently working on creative and challenging projects, exploring new technologies, and finding innovative solutions. Check out my projects on [GitHub](https://github.com/7Araby7) and feel free to get in touch!
+
+<p style="font-size:14px;">Contact me for collaborations or just to chat!</p>
