@@ -33,7 +33,7 @@ I’m currently working on creative and challenging projects, exploring new tech
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Araby7&layout=compact&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7Araby7&theme=dark)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=7Araby7&theme=darkhub)
 
