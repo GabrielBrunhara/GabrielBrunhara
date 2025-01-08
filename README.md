@@ -19,10 +19,6 @@
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBrunhara&show_icons=true&theme=dark)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark)
-
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&theme=dark)
 
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub)
