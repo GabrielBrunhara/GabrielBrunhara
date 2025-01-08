@@ -17,15 +17,15 @@
 - **Database Management:**  
   MySQL, PostgreSQL
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Araby7&layout=compact&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Araby7&show_icons=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBrunhara&show_icons=true&theme=dark)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Araby7&layout=compact&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark)
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7Araby7&theme=dark)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&theme=dark)
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=7Araby7&theme=darkhub)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub)
 
 ### 🚀 Projects and Interests
 
