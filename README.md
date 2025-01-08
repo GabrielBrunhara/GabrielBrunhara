@@ -9,9 +9,9 @@
   <a href="https://gabrielbrunhara.github.io/ReactPortfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=dev.to&label=&color=4A2CC5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielbrunhara02@gmail.com&su=Olá%20Gabriel&body=Gostaria%20de%20entrar%20em%20contato!" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
+  <a href="mailto:gabrielbrunhara02@gmail.com?subject=Assunto%20do%20Email&body=Olá%2C%20Gabriel!" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 
 </div>
 
