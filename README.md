@@ -1,31 +1,94 @@
-## 👋 Hi, I'm Gabriel Brunhara!
+<br clear="both">
 
-🎓 **Computer Science Student at UTFPR**  
-💡 Passionate about software development, I’m always seeking new ways to apply and expand my technical skills.
+###
 
-### 🌟 My Expertise
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-brunhara-049b43248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://gabrielbrunhara.github.io/ReactPortfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=dev.to&label=&color=4A2CC5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  </a>
+  <a href="mailto:gabrielbrunhara02@gmail.com?subject=Assunto%20do%20Email&body=Olá%2C%20Gabriel!" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
-- **Web Development:**  
-  HTML, CSS, PHP, JavaScript, React, Laravel
+###
 
-- **Mobile Development:**  
-  Dart/Flutter
+<h1 align="center">Hey, I’m Gabriel Brunhara! Welcome to my Dev Space! 🚀</h1>
 
-- **Other Programming Languages:**  
-  C/C++, Java
+###
 
-- **Database Management:**  
-  MySQL, PostgreSQL
+<h3 align="left">👨‍💻  About Me</h3>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark)
+###
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub)
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&theme=light)
+<p align="left">A full-stack dev from Curitiba, Brazil<br><br>
+- 🔭 Always looking for new projects<br>
+- 📚 Currently diving into React development<br>
+- ⚡ Passionate about solving real-world problems through code and always eager to learn new technologies!<br>
+- ✨ Collaborating on impactful projects to bring ideas to life!</p>
 
+###
 
-### 🚀 Projects and Interests
+<h3 align="left">🛠 Language and tools</h3>
 
-I’m currently working on creative and challenging projects, exploring new technologies, and finding innovative solutions. Check out my projects on [GitHub](https://github.com/7Araby7) and feel free to get in touch!
+###
 
-<p style="font-size:14px;">Contact me for collaborations or just to chat!</p>
+<h4 align="left">🔥 Most Improved:</h4>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+###
+
+<h4 align="left">📔 Complementary Tech:</h4>
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+</div>
+
+###
+
+<h3 align="left">🚀 My Stats:</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub" alt="GitHub Trophies" />
+</div>
+
+###
