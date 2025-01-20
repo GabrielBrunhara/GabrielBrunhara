@@ -89,8 +89,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=GabrielBrunhara&theme=dark" alt="Contribution Streak" /> 
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub" alt="GitHub Trophies" />
 </div>
 
