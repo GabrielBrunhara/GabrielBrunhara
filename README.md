@@ -27,7 +27,6 @@
 
 <p align="left">A full-stack dev from Curitiba, Brazil<br><br>
 - 🔭 Always looking for new projects<br>
-- 📚 Currently diving into React development<br>
 - ⚡ Passionate about solving real-world problems through code and always eager to learn new technologies!<br>
 - ✨ Collaborating on impactful projects to bring ideas to life!</p>
 
