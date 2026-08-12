@@ -1,94 +1,92 @@
-<br clear="both">
-
-###
+<!-- ══════════════ HEADER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:4A2CC5,100:22D3EE&height=190&section=header&text=Gabriel%20Brunhara&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Curitiba%2C%20Brazil&descAlignY=54&descSize=16&animation=fadeIn" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-brunhara-049b43248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://gabrielbrunhara.github.io/ReactPortfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=dev.to&label=&color=4A2CC5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-  </a>
-  <a href="mailto:gabrielbrunhara02@gmail.com?subject=Assunto%20do%20Email&body=Olá%2C%20Gabriel!" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+
+<a href="https://github.com/GabrielBrunhara">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=520&lines=React+%2B+TypeScript+on+the+front;Laravel+%2B+PostgreSQL+on+the+back;Shipping+real-world+solutions;Always+building+something" alt="typing" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gabriel-brunhara-049b43248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" /></a>
+<a href="https://gabrielbrunhara.github.io/ReactPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4A2CC5?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="portfolio" /></a>
+<a href="mailto:gabrielbrunhara02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="gmail" /></a>
+<img src="https://komarev.com/ghpvc/?username=GabrielBrunhara&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" height="28" alt="views" />
 
 </div>
 
-###
+<!-- ══════════════ ABOUT ══════════════ -->
 
-<h1 align="center">Hey, I’m Gabriel Brunhara! Welcome to my Dev Space! 🚀</h1>
+## 🧠 whoami
 
-###
+```ts
+const gabriel = {
+  role:     "Full-Stack Developer",
+  from:     "Curitiba 🇧🇷",
+  stack:    ["React", "TypeScript", "Laravel", "PostgreSQL"],
+  focus:    "turning real-world problems into shipped software",
+  learning: ["Next.js", "Docker", "Clean Architecture"],
+  openTo:   ["freelance", "open source", "cool ideas ✉️"],
+};
+```
 
-<h3 align="left">👨‍💻  About Me</h3>
+<!-- ══════════════ STACK ══════════════ -->
 
-###
+## 🛠 Stack
 
-<p align="left">A full-stack dev from Curitiba, Brazil<br><br>
-- 🔭 Always looking for new projects<br>
-- ⚡ Passionate about solving real-world problems through code and always eager to learn new technologies!<br>
-- ✨ Collaborating on impactful projects to bring ideas to life!</p>
+**Daily drivers**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,tailwind,php,laravel,mysql,postgres,git&theme=dark" alt="main stack" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+**Also in the toolbox**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,nodejs,docker,figma,vscode&theme=dark" alt="secondary stack" />
+</p>
 
-<h4 align="left">🔥 Most Improved:</h4>
+<!-- ══════════════ STATS ══════════════ -->
 
-###
+## 📊 By the numbers
 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielBrunhara&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=4A2CC5&text_color=C9D1D9&include_all_commits=true&rank_icon=github" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="top langs" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=GabrielBrunhara&hide_border=true&background=0D1117&stroke=21262D&ring=22D3EE&fire=4A2CC5&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=4A2CC5&area=true&area_color=4A2CC5&hide_border=true&custom_title=Contribution%20activity" alt="activity graph" />
+
 </div>
 
-###
+<!-- ══════════════ SNAKE ══════════════ -->
 
-<h4 align="left">📔 Complementary Tech:</h4>
+## 🐍 Watch the snake eat my commits
 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBrunhara/GabrielBrunhara/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielBrunhara/GabrielBrunhara/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/GabrielBrunhara/GabrielBrunhara/output/snake.svg" />
+  </picture>
 </div>
 
-###
+<!-- ══════════════ TROPHIES ══════════════ -->
 
-<h3 align="left">🚀 My Stats:</h3>
+## 🏆 Trophy shelf
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrunhara&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielBrunhara&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
 </div>
 
-###
+<!-- ══════════════ FOOTER ══════════════ -->
+
+<div align="center">
+  <br/>
+  <i>Got an idea worth building? <a href="mailto:gabrielbrunhara02@gmail.com">Let's talk.</a></i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,60:4A2CC5,100:0D1117&height=120&section=footer" />
