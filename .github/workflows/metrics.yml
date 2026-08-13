@@ -2,7 +2,10 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "30 6 * * *"
+    - cron: "0 9 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -52,4 +55,4 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
+          plugin_languages_other: yes
