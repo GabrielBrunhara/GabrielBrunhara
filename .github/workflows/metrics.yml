@@ -35,24 +35,31 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      - name: Generate language metrics
-        uses: lowlighter/metrics@latest
+      - name: Checkout latest repository state
+        uses: actions/checkout@v5
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/languages.svg
-          user: GabrielBrunhara
-          template: classic
-          base: ""
-          repositories: 200
-          repositories_forks: yes
-          repositories_affiliations: ""
-          commits_authoring: GabrielBrunhara, Gabriel Brunhara, gabrielbrunhara02@gmail.com
-          config_timezone: America/Sao_Paulo
-          config_padding: 0, 8 + 2%
+          ref: main
+          fetch-depth: 0
 
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_other: yes
+      - name: Sync generated profile metrics
+        run: git pull --ff-only origin main
+
+      - name: Generate language metrics
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_LOGIN: GabrielBrunhara
+        run: node .github/scripts/generate-language-card.mjs
+
+      - name: Commit language metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add metrics/languages.svg
+
+          if git diff --cached --quiet; then
+            echo "No language metric changes to commit"
+          else
+            git commit -m "Update metrics/languages.svg - [Skip GitHub Action]"
+            git push
+          fi
