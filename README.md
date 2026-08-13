@@ -66,7 +66,7 @@ const gabriel = {
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=4A2CC5&area=true&area_color=4A2CC5&hide_border=true&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=4A2CC5&area=true&area_color=4A2CC5&hide_border=true" alt="GitHub contribution activity graph" />
 
 <img width="98%" src="./metrics/overview.svg" alt="GitHub activity and language metrics" />
 
@@ -86,7 +86,7 @@ const gabriel = {
 <!-- ══════════════ FOOTER ══════════════ -->
 
 <div align="center">
-  <>
+  <br/>
   <em>"To live is to risk it all."</em><br/>
   <sub>— Rick Sanchez</sub>
 
