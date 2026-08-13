@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="320" viewBox="0 0 1240 320" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity and language metrics</title>
+  <desc id="desc">Aggregated GitHub contribution and language metrics for Gabriel Brunhara</desc>
+  <style>
+    svg {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #0D1117;
+    }
+
+    .title {
+      fill: #FFFFFF;
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .section {
+      fill: #22D3EE;
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .muted {
+      fill: #8B949E;
+      font-size: 13px;
+    }
+
+    .label {
+      fill: #C9D1D9;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .value {
+      fill: #FFFFFF;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .stat-value {
+      fill: #FFFFFF;
+      font-size: 28px;
+      font-weight: 800;
+    }
+  </style>
+
+  <rect width="1240" height="320" rx="0" fill="#0D1117" />
+  <rect x="0" y="0" width="1240" height="2" fill="#22D3EE" opacity="0.9" />
+  <rect x="0" y="2" width="1240" height="2" fill="#4A2CC5" opacity="0.85" />
+
+  <text x="32" y="48" class="title">GitHub activity</text>
+  <text x="650" y="48" class="title">Languages</text>
+  <line x1="604" y1="32" x2="604" y2="284" stroke="#30363D" />
+
+  
+    <g transform="translate(32 98)">
+      <text class="stat-value" x="0" y="0">1,025</text>
+      <text class="muted" x="0" y="20">contributions this year</text>
+    </g>
+  
+    <g transform="translate(210 98)">
+      <text class="stat-value" x="0" y="0">1,010</text>
+      <text class="muted" x="0" y="20">private contributions</text>
+    </g>
+  
+    <g transform="translate(388 98)">
+      <text class="stat-value" x="0" y="0">60</text>
+      <text class="muted" x="0" y="20">contributed repos</text>
+    </g>
+
+  
+    <g transform="translate(32 154)">
+      <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
+      <text class="label" x="14" y="0">Public commits</text>
+      <text class="value" x="230" y="0" text-anchor="end">15</text>
+    </g>
+  
+    <g transform="translate(32 184)">
+      <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
+      <text class="label" x="14" y="0">Searchable commits</text>
+      <text class="value" x="230" y="0" text-anchor="end">660</text>
+    </g>
+  
+    <g transform="translate(32 214)">
+      <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
+      <text class="label" x="14" y="0">Pull requests opened</text>
+      <text class="value" x="230" y="0" text-anchor="end">301</text>
+    </g>
+  
+    <g transform="translate(32 244)">
+      <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
+      <text class="label" x="14" y="0">Pull requests reviewed</text>
+      <text class="value" x="230" y="0" text-anchor="end">13</text>
+    </g>
+  
+    <g transform="translate(32 274)">
+      <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
+      <text class="label" x="14" y="0">Organizations</text>
+      <text class="value" x="230" y="0" text-anchor="end">3</text>
+    </g>
+
+  <text x="650" y="88" class="section">Top 8 of 21</text>
+  <text x="650" y="110" class="muted">60 contributed repositories · 56.4 MB analyzed</text>
+
+  <clipPath id="language-bar">
+    <rect x="650" y="132" width="520" height="10" rx="5" />
+  </clipPath>
+  <g clip-path="url(#language-bar)">
+    <rect x="650.00" y="132" width="192.65" height="10" fill="#3178c6" /><rect x="842.65" y="132" width="121.49" height="10" fill="#4F5D95" /><rect x="964.14" y="132" width="58.87" height="10" fill="#178600" /><rect x="1023.02" y="132" width="57.13" height="10" fill="#f1e05a" /><rect x="1080.15" y="132" width="35.91" height="10" fill="#336790" /><rect x="1116.06" y="132" width="32.33" height="10" fill="#b07219" /><rect x="1148.39" y="132" width="7.99" height="10" fill="#f7523f" /><rect x="1156.37" y="132" width="13.63" height="10" fill="#4A2CC5" />
+  </g>
+
+  
+        <circle cx="650" cy="179" r="5" fill="#3178c6" />
+        <text x="666" y="184" class="label">TypeScript</text>
+        <text x="824" y="184" class="muted" text-anchor="end">37.0%</text>
+        <circle cx="890" cy="179" r="5" fill="#4F5D95" />
+        <text x="906" y="184" class="label">PHP</text>
+        <text x="1064" y="184" class="muted" text-anchor="end">23.4%</text>
+        <circle cx="650" cy="205" r="5" fill="#178600" />
+        <text x="666" y="210" class="label">C#</text>
+        <text x="824" y="210" class="muted" text-anchor="end">11.3%</text>
+        <circle cx="890" cy="205" r="5" fill="#f1e05a" />
+        <text x="906" y="210" class="label">JavaScript</text>
+        <text x="1064" y="210" class="muted" text-anchor="end">11.0%</text>
+        <circle cx="650" cy="231" r="5" fill="#336790" />
+        <text x="666" y="236" class="label">PLpgSQL</text>
+        <text x="824" y="236" class="muted" text-anchor="end">6.9%</text>
+        <circle cx="890" cy="231" r="5" fill="#b07219" />
+        <text x="906" y="236" class="label">Java</text>
+        <text x="1064" y="236" class="muted" text-anchor="end">6.2%</text>
+        <circle cx="650" cy="257" r="5" fill="#f7523f" />
+        <text x="666" y="262" class="label">Blade</text>
+        <text x="824" y="262" class="muted" text-anchor="end">1.5%</text>
+        <circle cx="890" cy="257" r="5" fill="#4A2CC5" />
+        <text x="906" y="262" class="label">Other</text>
+        <text x="1064" y="262" class="muted" text-anchor="end">2.6%</text>
+</svg>

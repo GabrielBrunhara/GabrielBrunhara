@@ -66,16 +66,11 @@ const gabriel = {
 
 <div align="center">
 
-<img width="49%" src="./metrics/profile.svg" alt="GitHub profile metrics" />
-<img width="49%" src="./metrics/languages.svg" alt="GitHub language metrics" />
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBrunhara&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=4A2CC5&area=true&area_color=4A2CC5&hide_border=true&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" />
 
-</div>
+<img width="98%" src="./metrics/overview.svg" alt="GitHub activity and language metrics" />
 
 <!-- ══════════════ SNAKE ══════════════ -->
-
-## 🐍 Contribution snake
 
 <div align="center">
   <picture>
@@ -85,11 +80,16 @@ const gabriel = {
   </picture>
 </div>
 
+
+</div>
+
 <!-- ══════════════ FOOTER ══════════════ -->
 
 <div align="center">
-
+  <>
   <em>"To live is to risk it all."</em><br/>
   <sub>— Rick Sanchez</sub>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,60:4A2CC5,100:0D1117&height=120&section=footer" />

@@ -16,50 +16,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate profile activity metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/profile.svg
-          user: GabrielBrunhara
-          template: classic
-          base: header, activity, community, metadata
-          base_indepth: yes
-          repositories: 200
-          repositories_forks: yes
-          repositories_affiliations: ""
-          commits_authoring: GabrielBrunhara, Gabriel Brunhara, gabrielbrunhara02@gmail.com
-          config_timezone: America/Sao_Paulo
-          config_padding: 0, 8 + 2%
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-      - name: Checkout latest repository state
+      - name: Checkout repository
         uses: actions/checkout@v5
         with:
-          ref: main
           fetch-depth: 0
 
-      - name: Sync generated profile metrics
-        run: git pull --ff-only origin main
-
-      - name: Generate language metrics
+      - name: Generate overview metrics
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GITHUB_LOGIN: GabrielBrunhara
-        run: node .github/scripts/generate-language-card.mjs
+        run: node .github/scripts/generate-overview-card.mjs
 
-      - name: Commit language metrics
+      - name: Commit overview metrics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add metrics/languages.svg
+          git add metrics/overview.svg
 
           if git diff --cached --quiet; then
-            echo "No language metric changes to commit"
+            echo "No metric changes to commit"
           else
-            git commit -m "Update metrics/languages.svg - [Skip GitHub Action]"
+            git commit -m "chore: update metrics overview [skip ci]"
             git push
           fi
