@@ -16,7 +16,7 @@
 
 <!-- ══════════════ ABOUT ══════════════ -->
 
-## 🧠 whoami
+## 🧠 Whoami
 
 ```ts
 const gabriel = {
@@ -36,7 +36,7 @@ const gabriel = {
 
 <!-- ══════════════ STACK ══════════════ -->
 
-## 🛠️ Engineering toolkit
+## 🛠️ Toolkit
 
 ### Main stack
 
@@ -62,7 +62,7 @@ const gabriel = {
 
 <!-- ══════════════ STATS ══════════════ -->
 
-## 📊 GitHub activity
+## 📊 Activity
 
 <div align="center">
 
