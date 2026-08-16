@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gabriel-brunhara-049b43248/" target="_blank"><img src="https://shieldcn.dev/badge/-LinkedIn-0A66C2.svg?logo=ri%3AFaLinkedin&logoColor=white&size=sm" height="28" alt="LinkedIn" /></a> <a href="https://gabrielbrunhara.github.io/ReactPortfolio/" target="_blank"><img src="https://shieldcn.dev/badge/-Portfolio-4A2CC5.svg?logo=ri%3AFaLaptopCode&logoColor=white&size=sm" height="28" alt="Portfolio" /></a> <a href="mailto:gabrielbrunhara02@gmail.com"><img src="https://shieldcn.dev/badge/-Email-D14836.svg?logo=gmail&logoColor=white&size=sm" height="28" alt="Email" /></a> <img src="https://shieldcn.dev/views/user/GabrielBrunhara.svg?variant=outline&theme=cyan&size=sm" height="28" alt="Profile views" />
+<a href="https://www.linkedin.com/in/gabriel-brunhara-049b43248/" target="_blank"><img src="https://shieldcn.dev/badge/-LinkedIn-0A66C2.svg?logo=ri%3AFaLinkedin&logoColor=white&size=sm" height="28" alt="LinkedIn" /></a> <a href="https://gabrielbrunhara.com" target="_blank"><img src="https://shieldcn.dev/badge/-Portfolio-4A2CC5.svg?logo=ri%3AFaLaptopCode&logoColor=white&size=sm" height="28" alt="Portfolio" /></a> <a href="mailto:gabrielbrunhara02@gmail.com"><img src="https://shieldcn.dev/badge/-Email-D14836.svg?logo=gmail&logoColor=white&size=sm" height="28" alt="Email" /></a> <img src="https://shieldcn.dev/views/user/GabrielBrunhara.svg?variant=outline&theme=cyan&size=sm" height="28" alt="Profile views" />
 
 </div>
 
