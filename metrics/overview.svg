@@ -53,12 +53,12 @@
 
   
     <g transform="translate(32 98)">
-      <text class="stat-value" x="0" y="0">1,313</text>
+      <text class="stat-value" x="0" y="0">1,311</text>
       <text class="muted" x="0" y="20">contributions this year</text>
     </g>
   
     <g transform="translate(210 98)">
-      <text class="stat-value" x="0" y="0">205</text>
+      <text class="stat-value" x="0" y="0">203</text>
       <text class="muted" x="0" y="20">private contributions</text>
     </g>
   
@@ -105,7 +105,7 @@
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="209.38" height="10" fill="#3178c6" /><rect x="859.38" y="132" width="133.56" height="10" fill="#4F5D95" /><rect x="992.94" y="132" width="48.64" height="10" fill="#7355dd" /><rect x="1041.58" y="132" width="47.40" height="10" fill="#f1e05a" /><rect x="1088.98" y="132" width="29.72" height="10" fill="#336790" /><rect x="1118.70" y="132" width="28.75" height="10" fill="#b07219" /><rect x="1147.46" y="132" width="8.00" height="10" fill="#3572A5" /><rect x="1155.46" y="132" width="14.54" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="209.35" height="10" fill="#3178c6" /><rect x="859.35" y="132" width="133.62" height="10" fill="#4F5D95" /><rect x="992.97" y="132" width="48.63" height="10" fill="#7355dd" /><rect x="1041.60" y="132" width="47.40" height="10" fill="#f1e05a" /><rect x="1088.99" y="132" width="29.72" height="10" fill="#336790" /><rect x="1118.71" y="132" width="28.75" height="10" fill="#b07219" /><rect x="1147.46" y="132" width="8.00" height="10" fill="#3572A5" /><rect x="1155.46" y="132" width="14.54" height="10" fill="#4A2CC5" />
   </g>
 
   
