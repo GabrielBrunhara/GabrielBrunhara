@@ -83,13 +83,13 @@
     <g transform="translate(32 214)">
       <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
       <text class="label" x="14" y="0">Pull requests opened</text>
-      <text class="value" x="230" y="0" text-anchor="end">380</text>
+      <text class="value" x="230" y="0" text-anchor="end">285</text>
     </g>
   
     <g transform="translate(32 244)">
       <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
       <text class="label" x="14" y="0">Pull requests reviewed</text>
-      <text class="value" x="230" y="0" text-anchor="end">12</text>
+      <text class="value" x="230" y="0" text-anchor="end">7</text>
     </g>
   
     <g transform="translate(32 274)">
