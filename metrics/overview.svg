@@ -53,12 +53,12 @@
 
   
     <g transform="translate(32 98)">
-      <text class="stat-value" x="0" y="0">1,330</text>
+      <text class="stat-value" x="0" y="0">1,329</text>
       <text class="muted" x="0" y="20">contributions this year</text>
     </g>
   
     <g transform="translate(210 98)">
-      <text class="stat-value" x="0" y="0">195</text>
+      <text class="stat-value" x="0" y="0">194</text>
       <text class="muted" x="0" y="20">private contributions</text>
     </g>
   
@@ -105,13 +105,13 @@
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="220.73" height="10" fill="#3178c6" /><rect x="870.73" y="132" width="136.51" height="10" fill="#4F5D95" /><rect x="1007.24" y="132" width="43.45" height="10" fill="#7355dd" /><rect x="1050.70" y="132" width="42.49" height="10" fill="#f1e05a" /><rect x="1093.18" y="132" width="26.58" height="10" fill="#336790" /><rect x="1119.77" y="132" width="25.65" height="10" fill="#b07219" /><rect x="1145.41" y="132" width="11.25" height="10" fill="#3572A5" /><rect x="1156.66" y="132" width="13.34" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="220.77" height="10" fill="#3178c6" /><rect x="870.77" y="132" width="136.51" height="10" fill="#4F5D95" /><rect x="1007.28" y="132" width="43.45" height="10" fill="#7355dd" /><rect x="1050.72" y="132" width="42.48" height="10" fill="#f1e05a" /><rect x="1093.20" y="132" width="26.58" height="10" fill="#336790" /><rect x="1119.78" y="132" width="25.64" height="10" fill="#b07219" /><rect x="1145.42" y="132" width="11.25" height="10" fill="#3572A5" /><rect x="1156.67" y="132" width="13.33" height="10" fill="#4A2CC5" />
   </g>
 
   
         <circle cx="650" cy="179" r="5" fill="#3178c6" />
         <text x="666" y="184" class="label">TypeScript</text>
-        <text x="824" y="184" class="muted" text-anchor="end">42.4%</text>
+        <text x="824" y="184" class="muted" text-anchor="end">42.5%</text>
         <circle cx="890" cy="179" r="5" fill="#4F5D95" />
         <text x="906" y="184" class="label">PHP</text>
         <text x="1064" y="184" class="muted" text-anchor="end">26.3%</text>
