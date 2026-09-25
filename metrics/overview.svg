@@ -53,12 +53,12 @@
 
   
     <g transform="translate(32 98)">
-      <text class="stat-value" x="0" y="0">1,341</text>
+      <text class="stat-value" x="0" y="0">1,332</text>
       <text class="muted" x="0" y="20">contributions this year</text>
     </g>
   
     <g transform="translate(210 98)">
-      <text class="stat-value" x="0" y="0">554</text>
+      <text class="stat-value" x="0" y="0">545</text>
       <text class="muted" x="0" y="20">private contributions</text>
     </g>
   
@@ -105,7 +105,7 @@
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="213.10" height="10" fill="#3178c6" /><rect x="863.10" y="132" width="143.95" height="10" fill="#4F5D95" /><rect x="1007.05" y="132" width="53.22" height="10" fill="#7355dd" /><rect x="1060.27" y="132" width="49.15" height="10" fill="#f1e05a" /><rect x="1109.42" y="132" width="31.34" height="10" fill="#b07219" /><rect x="1140.75" y="132" width="13.82" height="10" fill="#3572A5" /><rect x="1154.58" y="132" width="6.77" height="10" fill="#844FBA" /><rect x="1161.35" y="132" width="8.65" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="213.05" height="10" fill="#3178c6" /><rect x="863.05" y="132" width="144.06" height="10" fill="#4F5D95" /><rect x="1007.11" y="132" width="53.20" height="10" fill="#7355dd" /><rect x="1060.31" y="132" width="49.13" height="10" fill="#f1e05a" /><rect x="1109.44" y="132" width="31.33" height="10" fill="#b07219" /><rect x="1140.76" y="132" width="13.82" height="10" fill="#3572A5" /><rect x="1154.58" y="132" width="6.77" height="10" fill="#844FBA" /><rect x="1161.36" y="132" width="8.64" height="10" fill="#4A2CC5" />
   </g>
 
   
@@ -120,7 +120,7 @@
         <text x="824" y="210" class="muted" text-anchor="end">10.2%</text>
         <circle cx="890" cy="205" r="5" fill="#f1e05a" />
         <text x="906" y="210" class="label">JavaScript</text>
-        <text x="1064" y="210" class="muted" text-anchor="end">9.5%</text>
+        <text x="1064" y="210" class="muted" text-anchor="end">9.4%</text>
         <circle cx="650" cy="231" r="5" fill="#b07219" />
         <text x="666" y="236" class="label">Java</text>
         <text x="824" y="236" class="muted" text-anchor="end">6.0%</text>
