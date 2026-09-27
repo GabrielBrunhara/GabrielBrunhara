@@ -53,12 +53,12 @@
 
   
     <g transform="translate(32 98)">
-      <text class="stat-value" x="0" y="0">1,334</text>
+      <text class="stat-value" x="0" y="0">1,332</text>
       <text class="muted" x="0" y="20">contributions this year</text>
     </g>
   
     <g transform="translate(210 98)">
-      <text class="stat-value" x="0" y="0">545</text>
+      <text class="stat-value" x="0" y="0">543</text>
       <text class="muted" x="0" y="20">private contributions</text>
     </g>
   
