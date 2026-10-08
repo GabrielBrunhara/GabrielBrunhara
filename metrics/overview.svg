@@ -53,7 +53,7 @@
 
   
     <g transform="translate(32 98)">
-      <text class="stat-value" x="0" y="0">1,357</text>
+      <text class="stat-value" x="0" y="0">1,353</text>
       <text class="muted" x="0" y="20">contributions this year</text>
     </g>
   
@@ -71,7 +71,7 @@
     <g transform="translate(32 154)">
       <circle cx="0" cy="-5" r="4" fill="#22D3EE" opacity="0.9" />
       <text class="label" x="14" y="0">Public commits</text>
-      <text class="value" x="230" y="0" text-anchor="end">1,320</text>
+      <text class="value" x="230" y="0" text-anchor="end">1,316</text>
     </g>
   
     <g transform="translate(32 184)">
@@ -99,22 +99,22 @@
     </g>
 
   <text x="650" y="88" class="section">Top 8 of 24</text>
-  <text x="650" y="110" class="muted">87 contributed repositories · 81.0 MB analyzed</text>
+  <text x="650" y="110" class="muted">87 contributed repositories · 81.1 MB analyzed</text>
 
   <clipPath id="language-bar">
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="200.16" height="10" fill="#3178c6" /><rect x="850.16" y="132" width="151.80" height="10" fill="#4F5D95" /><rect x="1001.96" y="132" width="46.54" height="10" fill="#f1e05a" /><rect x="1048.50" y="132" width="40.99" height="10" fill="#7355dd" /><rect x="1089.49" y="132" width="25.07" height="10" fill="#336790" /><rect x="1114.56" y="132" width="24.29" height="10" fill="#b07219" /><rect x="1138.86" y="132" width="12.63" height="10" fill="#3572A5" /><rect x="1151.49" y="132" width="18.51" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="199.92" height="10" fill="#3178c6" /><rect x="849.92" y="132" width="152.10" height="10" fill="#4F5D95" /><rect x="1002.02" y="132" width="46.52" height="10" fill="#f1e05a" /><rect x="1048.54" y="132" width="40.97" height="10" fill="#7355dd" /><rect x="1089.52" y="132" width="25.06" height="10" fill="#336790" /><rect x="1114.58" y="132" width="24.28" height="10" fill="#b07219" /><rect x="1138.87" y="132" width="12.63" height="10" fill="#3572A5" /><rect x="1151.50" y="132" width="18.50" height="10" fill="#4A2CC5" />
   </g>
 
   
         <circle cx="650" cy="179" r="5" fill="#3178c6" />
         <text x="666" y="184" class="label">TypeScript</text>
-        <text x="824" y="184" class="muted" text-anchor="end">38.5%</text>
+        <text x="824" y="184" class="muted" text-anchor="end">38.4%</text>
         <circle cx="890" cy="179" r="5" fill="#4F5D95" />
         <text x="906" y="184" class="label">PHP</text>
-        <text x="1064" y="184" class="muted" text-anchor="end">29.2%</text>
+        <text x="1064" y="184" class="muted" text-anchor="end">29.3%</text>
         <circle cx="650" cy="205" r="5" fill="#f1e05a" />
         <text x="666" y="210" class="label">JavaScript</text>
         <text x="824" y="210" class="muted" text-anchor="end">8.9%</text>
