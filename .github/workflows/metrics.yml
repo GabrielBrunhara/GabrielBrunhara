@@ -21,6 +21,31 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Prepare pinned activity graph generator
+        env:
+          ACTIVITY_GRAPH_DIR: ${{ runner.temp }}/activity-graph
+        run: |
+          git init "$ACTIVITY_GRAPH_DIR"
+          git -C "$ACTIVITY_GRAPH_DIR" remote add origin https://github.com/Ashutosh00710/github-readme-activity-graph.git
+          git -C "$ACTIVITY_GRAPH_DIR" fetch --depth 1 origin 0962e9461de815933d462e8b98c7ce566cada8fb
+          git -C "$ACTIVITY_GRAPH_DIR" checkout --detach FETCH_HEAD
+          cd "$ACTIVITY_GRAPH_DIR"
+          # npm 10 supports the upstream lockfile; npm 11 rejects its optional entries.
+          npx --yes npm@10.9.8 ci --no-audit --no-fund
+          npm run build
+
+      - name: Generate activity graph
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_LOGIN: GabrielBrunhara
+          ACTIVITY_GRAPH_DIR: ${{ runner.temp }}/activity-graph
+        run: node .github/scripts/generate-activity-graph.mjs
+
       - name: Generate overview metrics
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
@@ -32,7 +57,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add metrics/overview.svg
+          git add metrics/overview.svg metrics/activity.svg
 
           if git diff --cached --quiet; then
             echo "No metric changes to commit"
