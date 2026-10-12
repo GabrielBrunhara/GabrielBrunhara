@@ -105,7 +105,7 @@
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="200.53" height="10" fill="#3178c6" /><rect x="850.53" y="132" width="146.88" height="10" fill="#4F5D95" /><rect x="997.41" y="132" width="44.84" height="10" fill="#f1e05a" /><rect x="1042.25" y="132" width="39.37" height="10" fill="#7355dd" /><rect x="1081.62" y="132" width="24.13" height="10" fill="#336790" /><rect x="1105.75" y="132" width="23.66" height="10" fill="#b07219" /><rect x="1129.41" y="132" width="20.22" height="10" fill="#3572A5" /><rect x="1149.63" y="132" width="20.37" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="200.56" height="10" fill="#3178c6" /><rect x="850.56" y="132" width="146.89" height="10" fill="#4F5D95" /><rect x="997.45" y="132" width="44.83" height="10" fill="#f1e05a" /><rect x="1042.28" y="132" width="39.36" height="10" fill="#7355dd" /><rect x="1081.64" y="132" width="24.12" height="10" fill="#336790" /><rect x="1105.76" y="132" width="23.66" height="10" fill="#b07219" /><rect x="1129.42" y="132" width="20.22" height="10" fill="#3572A5" /><rect x="1149.64" y="132" width="20.36" height="10" fill="#4A2CC5" />
   </g>
 
   
@@ -126,7 +126,7 @@
         <text x="824" y="236" class="muted" text-anchor="end">4.6%</text>
         <circle cx="890" cy="231" r="5" fill="#b07219" />
         <text x="906" y="236" class="label">Java</text>
-        <text x="1064" y="236" class="muted" text-anchor="end">4.6%</text>
+        <text x="1064" y="236" class="muted" text-anchor="end">4.5%</text>
         <circle cx="650" cy="257" r="5" fill="#3572A5" />
         <text x="666" y="262" class="label">Python</text>
         <text x="824" y="262" class="muted" text-anchor="end">3.9%</text>
