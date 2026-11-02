@@ -105,7 +105,7 @@
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="208.79" height="10" fill="#3178c6" /><rect x="858.79" y="132" width="147.37" height="10" fill="#4F5D95" /><rect x="1006.16" y="132" width="40.23" height="10" fill="#f1e05a" /><rect x="1046.39" y="132" width="34.78" height="10" fill="#7355dd" /><rect x="1081.17" y="132" width="26.86" height="10" fill="#3572A5" /><rect x="1108.02" y="132" width="21.85" height="10" fill="#b07219" /><rect x="1129.87" y="132" width="21.32" height="10" fill="#336790" /><rect x="1151.19" y="132" width="18.81" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="208.85" height="10" fill="#3178c6" /><rect x="858.85" y="132" width="147.34" height="10" fill="#4F5D95" /><rect x="1006.19" y="132" width="40.22" height="10" fill="#f1e05a" /><rect x="1046.41" y="132" width="34.77" height="10" fill="#7355dd" /><rect x="1081.18" y="132" width="26.85" height="10" fill="#3572A5" /><rect x="1108.03" y="132" width="21.85" height="10" fill="#b07219" /><rect x="1129.88" y="132" width="21.31" height="10" fill="#336790" /><rect x="1151.19" y="132" width="18.81" height="10" fill="#4A2CC5" />
   </g>
 
   
