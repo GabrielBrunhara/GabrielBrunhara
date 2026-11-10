@@ -99,13 +99,13 @@
     </g>
 
   <text x="650" y="88" class="section">Top 8 of 27</text>
-  <text x="650" y="110" class="muted">94 contributed repositories · 96.4 MB analyzed</text>
+  <text x="650" y="110" class="muted">94 contributed repositories · 96.5 MB analyzed</text>
 
   <clipPath id="language-bar">
     <rect x="650" y="132" width="520" height="10" rx="5" />
   </clipPath>
   <g clip-path="url(#language-bar)">
-    <rect x="650.00" y="132" width="209.67" height="10" fill="#3178c6" /><rect x="859.67" y="132" width="147.42" height="10" fill="#4F5D95" /><rect x="1007.09" y="132" width="39.89" height="10" fill="#f1e05a" /><rect x="1046.97" y="132" width="34.50" height="10" fill="#7355dd" /><rect x="1081.47" y="132" width="26.67" height="10" fill="#3572A5" /><rect x="1108.13" y="132" width="21.65" height="10" fill="#b07219" /><rect x="1129.78" y="132" width="21.11" height="10" fill="#336790" /><rect x="1150.89" y="132" width="19.11" height="10" fill="#4A2CC5" />
+    <rect x="650.00" y="132" width="209.48" height="10" fill="#3178c6" /><rect x="859.48" y="132" width="147.72" height="10" fill="#4F5D95" /><rect x="1007.20" y="132" width="39.85" height="10" fill="#f1e05a" /><rect x="1047.05" y="132" width="34.46" height="10" fill="#7355dd" /><rect x="1081.52" y="132" width="26.67" height="10" fill="#3572A5" /><rect x="1108.18" y="132" width="21.63" height="10" fill="#b07219" /><rect x="1129.81" y="132" width="21.09" height="10" fill="#336790" /><rect x="1150.89" y="132" width="19.11" height="10" fill="#4A2CC5" />
   </g>
 
   
@@ -114,7 +114,7 @@
         <text x="824" y="184" class="muted" text-anchor="end">40.3%</text>
         <circle cx="890" cy="179" r="5" fill="#4F5D95" />
         <text x="906" y="184" class="label">PHP</text>
-        <text x="1064" y="184" class="muted" text-anchor="end">28.3%</text>
+        <text x="1064" y="184" class="muted" text-anchor="end">28.4%</text>
         <circle cx="650" cy="205" r="5" fill="#f1e05a" />
         <text x="666" y="210" class="label">JavaScript</text>
         <text x="824" y="210" class="muted" text-anchor="end">7.7%</text>
